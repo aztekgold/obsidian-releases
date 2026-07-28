@@ -42845,5 +42845,12 @@
     "author": "enyaw9",
     "description": "One-click push your notes to HackMD. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "enyawu/obsidian-hackmd-push"
+  },
+  { 
+    "id": "tables",
+    "name": "Tables",
+    "author": "aztekgold",
+    "description": "Create and manage interactive, single-file tables with rich column typfiltering, and embeds",
+    "repo": "aztekgold/obsidian-tables"
   }
 ]
